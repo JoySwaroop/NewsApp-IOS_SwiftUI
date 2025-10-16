@@ -49,4 +49,5 @@ News App is a beautifully designed iOS application built with modern SwiftUI tha
 
 ## Demo
 
-*Demo video*
+https://github.com/user-attachments/assets/ae226006-c93e-4df4-90b4-0efeae3715e7
+
